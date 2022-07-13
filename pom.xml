@@ -4,7 +4,6 @@
 	<groupId>in.shan5a6</groupId>
 	<artifactId>myweb</artifactId>
 	<packaging>war</packaging>
-<<<<<<< HEAD
 	<version>0.12.8</version>
 =======
 	<version>0.12.7</version>
