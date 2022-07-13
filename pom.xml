@@ -5,9 +5,6 @@
 	<artifactId>myweb</artifactId>
 	<packaging>war</packaging>
 	<version>0.12.8</version>
-=======
-	<version>0.12.7</version>
->>>>>>> 90a31e9042f8ff17260b6bc1533a53ef171da721
 	<name>myweb Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<properties>
