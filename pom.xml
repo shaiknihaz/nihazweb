@@ -4,7 +4,7 @@
 	<groupId>in.shan5a6</groupId>
 	<artifactId>myweb</artifactId>
 	<packaging>war</packaging>
-	<version>0.12.8</version>
+	<version>0.12.9</version>
 	<name>myweb Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<properties>
@@ -29,7 +29,7 @@
 		<dependency>
 		    <groupId>com.itextpdf</groupId>
 		    <artifactId>itextpdf</artifactId>
-		    <version>5.0.6</version>
+		    <version>5.5.12</version>
 		</dependency>
 
 		<!-- <dependency>
